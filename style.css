@@ -1,0 +1,50 @@
+.main_div
+{
+    background-color:cadetblue;
+    height: 700px;
+}
+
+.header_div
+{
+    background-color: white;
+
+}
+
+.copy_right_footer
+{
+   font-family: cursive;
+   text-shadow: 5px 5px 5px gray;
+   font-size: 20px;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   line-height: 30px;
+}
+
+.hearing_image
+{
+    height: 200px;
+}
+
+h2
+{
+    font-family: 'Rubik Spray Paint', cursive;
+    font-size: 35px;
+}
+
+p
+{
+    font-size: 25;
+    font-family: 'Caveat', cursive;
+    font-style: bold;
+}
+
+h4
+{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button
+{
+    margin-top: 15px;
+}
